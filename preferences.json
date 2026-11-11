@@ -1,0 +1,154 @@
+[
+  {
+    "property": "mod.zolfmods.sound-visualiser.mute-position",
+    "label": "Mute icon position",
+    "type": "dropdown",
+    "placeholder": "Top right",
+    "options": [
+      {
+        "label": "Top left",
+        "value": "top-left"
+      },
+      {
+        "label": "Bottom right",
+        "value": "bottom-right"
+      },
+      {
+        "label": "Bottom left",
+        "value": "bottom-left"
+      },
+      {
+        "label": "Middle high",
+        "value": "middle-high"
+      },
+      {
+        "label": "Middle low",
+        "value": "middle-low"
+      }
+    ]
+  },
+  {
+    "property": "mod.zolfmods.sound-visualiser.mute-style",
+    "label": "Mute icon style",
+    "type": "dropdown",
+    "placeholder": "Dark",
+    "options": [
+      {
+        "label": "Light",
+        "value": "light"
+      }
+    ]
+  },
+  {
+    "property": "mod.zolfmods.sound-visualiser.mute-size",
+    "label": "Mute icon size",
+    "type": "dropdown",
+    "placeholder": "Medium",
+    "options": [
+      {
+        "label": "Small",
+        "value": "small"
+      },
+      {
+        "label": "Big",
+        "value": "big"
+      }
+    ]
+  },
+  {
+    "property": "mod.zolfmods.sound-visualiser.visualiser-mode",
+    "label": "Sound visualiser",
+    "type": "dropdown",
+    "placeholder": "Animated",
+    "options": [
+      {
+        "label": "None",
+        "value": "off"
+      }
+    ]
+  },
+  {
+    "property": "mod.zolfmods.sound-visualiser.visualiser-style",
+    "label": "Sound visualiser style",
+    "type": "dropdown",
+    "placeholder": "Bars",
+    "options": [
+      {
+        "label": "Wave",
+        "value": "wave"
+      }
+    ]
+  },
+  {
+    "property": "mod.zolfmods.sound-visualiser.visualiser-color",
+    "label": "Visualiser color",
+    "type": "dropdown",
+    "placeholder": "Monochrome light",
+    "options": [
+      {
+        "label": "Blue",
+        "value": "blue"
+      },
+      {
+        "label": "Green",
+        "value": "green"
+      },
+      {
+        "label": "Monochrome dark",
+        "value": "mono-dark"
+      },
+      {
+        "label": "Orange",
+        "value": "orange"
+      },
+      {
+        "label": "Pink",
+        "value": "pink"
+      },
+      {
+        "label": "Purple",
+        "value": "purple"
+      },
+      {
+        "label": "Red",
+        "value": "red"
+      },
+      {
+        "label": "Yellow",
+        "value": "yellow"
+      },
+      {
+        "label": "Zen accent color",
+        "value": "accent"
+      }
+    ]
+  },
+  {
+    "property": "mod.zolfmods.sound-visualiser.visualiser-size",
+    "label": "Visualiser size",
+    "type": "dropdown",
+    "placeholder": "Medium",
+    "options": [
+      {
+        "label": "Small",
+        "value": "small"
+      },
+      {
+        "label": "Large",
+        "value": "large"
+      }
+    ]
+  },
+  {
+    "property": "mod.zolfmods.sound-visualiser.visualiser-layer",
+    "label": "Visualiser layer",
+    "type": "dropdown",
+    "placeholder": "Behind favicon",
+    "options": [
+      {
+        "label": "Above favicon",
+        "value": "above"
+      }
+    ]
+  }
+]

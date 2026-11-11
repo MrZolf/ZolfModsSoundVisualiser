@@ -1,0 +1,22 @@
+{
+  "id": "zolfmods-sound-visualiser",
+  "name": "Zolf Mods Sound Visualiser",
+  "description": "Mute button and animated sound visualiser for Zen Essentials.",
+  "homepage": "https://github.com/MrZolf/ZolfModsSoundVisualiser",
+  "readme": "README.md",
+  "author": "MrZolf",
+  "version": "1.0.0",
+  "style": {
+    "chrome": "chrome.css"
+  },
+  "tags": [
+    "essentials",
+    "tabs",
+    "audio",
+    "visualiser"
+  ],
+  "fork": [
+    "zen"
+  ],
+  "preferences": "preferences.json"
+}
